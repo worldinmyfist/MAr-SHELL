@@ -30,9 +30,8 @@ gcc MAr-SHELL.c -lreadline
   * hello
  
 ## AUTHOR
-[ARYAN AGARWAL]
-(https://github.com/worldinmyfist/)
-The name of the repository is a pun. The MAr in MAr-SHELL in represent Mr. Aryan and also sound similar to My Shell (too possessive about it).
+[ARYAN AGARWAL](https://github.com/worldinmyfist/)
+*The name of the repository is a pun. The MAr in MAr-SHELL in represent Mr. Aryan and also sound similar to My Shell (too possessive about it).*
 
 ## CONTRIBUTION
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
