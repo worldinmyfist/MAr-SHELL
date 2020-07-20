@@ -31,6 +31,7 @@ gcc MAr-SHELL.c -lreadline
  
 ## AUTHOR
 [ARYAN AGARWAL](https://github.com/worldinmyfist/)
+
 *The name of the repository is a pun. The MAr in MAr-SHELL in represent Mr. Aryan and also sound similar to My Shell (too possessive about it).*
 
 ## CONTRIBUTION
