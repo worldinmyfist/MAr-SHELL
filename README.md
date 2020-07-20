@@ -1,19 +1,19 @@
 # MAr-SHELL
 My own Linux Shell in C
 
-##PRE-REQUISITES
+## PRE-REQUISITES
 ```bash
 sudo apt-get install sl
 sudo apt-get install libreadline-dev
 ```
 
-##HOW TO RUN THE CODE
+## HOW TO RUN THE CODE
 ```bash
 gcc MAr-SHELL.c -lreadline
 ./a.out
 ```
 
-##FEATURES
+## FEATURES
 *List of Built-in Commands Supported:
   *ls
   *cd
@@ -29,10 +29,11 @@ gcc MAr-SHELL.c -lreadline
   *help
   *hello
 
-##AUTHOR
-[ARYAN AGARWAL](https://github.com/worldinmyfist/)
+## AUTHOR
+[ARYAN AGARWAL]
+(https://github.com/worldinmyfist/)
 The name of the repository is a pun. The MAr in MAr-SHELL in represent Mr. Aryan and also sound similar to My Shell (too possessive about it).
 
   
-##CONTRIBUTION
+## CONTRIBUTION
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
