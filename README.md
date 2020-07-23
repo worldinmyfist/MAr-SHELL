@@ -1,7 +1,7 @@
 # MAr-SHELL
 My own Linux Shell in C
 
-![](ezgif.com-crop.gif)
+![](ezgif.com-video-to-gif.gif)
 
 ## PRE-REQUISITES
 ```bash
