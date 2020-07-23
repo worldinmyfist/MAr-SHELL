@@ -1,6 +1,8 @@
 # MAr-SHELL
 My own Linux Shell in C
 
+![](ezgif.com-crop.gif)
+
 ## PRE-REQUISITES
 ```bash
 sudo apt-get install sl
